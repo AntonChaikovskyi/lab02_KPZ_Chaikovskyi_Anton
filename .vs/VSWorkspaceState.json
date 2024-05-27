@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AbstractFactory",
+    "\\Builder\\Builder",
+    "\\FabrichniMethod",
+    "\\FabrichniMethod\\FabrichniMethod",
+    "\\Loner",
+    "\\Loner\\Loner",
+    "\\Prototype",
+    "\\Prototype\\Prototype"
+  ],
+  "SelectedNode": "\\AbstractFactory\\AbstractFactory.sln",
+  "PreviewInSolutionExplorer": false
+}
